@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">I'm a Fullstack Developer.</h3>
 
-- 🔭 I’m currently working on [my own project](http://halilbilgin.com.tr)
+- 🔭 I’m currently working on [Proj-e](http://proj-e.com)
 
 - 📫 How to reach me **hi@halilbilgin.com.tr**
 

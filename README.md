@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hlilbilgin](https://medium.com/@hlilbilgin)
 
-- 💬 Ask me about **javaScript, vue, react, html, css**
+- 💬 Ask me about **javaScript, vue, react, next.js, typeScript, html, css**
 
 - 📫 How to reach me **hi@halilbilgin.com.tr**
 

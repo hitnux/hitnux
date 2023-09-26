@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NMQ Diigtal](https://nmqdigital.com/)
 
-- 🌱 I’m currently learning **Node.js and TypeScript**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hlilbilgin/](https://www.linkedin.com/in/hlilbilgin/)
 
